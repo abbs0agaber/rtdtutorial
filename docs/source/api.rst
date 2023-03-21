@@ -4,12 +4,14 @@ Installation
 ------------
 Use the Lumache API by doing the following:
 
-Install the Lumache-API
+Install the Lumache-API:
+
 .. code-block:: console
 
    (.venv) $ pip install lumache-api
 
-Then start the API with
+Then start the API with:
+
 .. code-block:: console
 
    (.venv) $ python lumache-api.start()
